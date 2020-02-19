@@ -8,3 +8,4 @@ Pepper
 Oil
 
 Add: onions
+Add: Salt
