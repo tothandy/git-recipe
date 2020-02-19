@@ -9,3 +9,4 @@ Oil
 
 Add: onions
 Add: Salt
+Optional: Water
