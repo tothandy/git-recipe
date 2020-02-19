@@ -10,3 +10,7 @@ Oil
 Add: onions
 
 Optional add-on: Bacon (non-vegan)
+
+Add: Salt
+Optional: Water
+
