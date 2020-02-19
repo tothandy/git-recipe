@@ -8,3 +8,5 @@ Pepper
 Oil
 
 Add: onions
+
+Add some sugar
